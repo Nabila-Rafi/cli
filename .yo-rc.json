@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Partha Mukherjee",
+      "authorEmail": "partham789@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
